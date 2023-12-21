@@ -1,0 +1,14 @@
+body {
+    font-family: "Garamond", "Geneva", sans-serif;
+    color: #B80000;
+    background-color: #5F8670;
+    text-align: center;
+}
+
+a {
+    font-weight: 800;
+}
+
+.desc {
+    font-size: 20px;
+}
