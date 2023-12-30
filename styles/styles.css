@@ -1,7 +1,7 @@
 body {
     font-family: "Garamond", "Geneva", sans-serif;
-    color: #B80000;
-    background-color: #5F8670;
+    color: black;
+    background-color: white;
     text-align: center;
 }
 
@@ -11,4 +11,32 @@ a {
 
 .desc {
     font-size: 20px;
+    width: 1200px;
+    border: 1px solid #820300;
+    margin: 10px auto;
+    padding: 8px 4px;
+    color: #B80000;
+    background-color: #5F8670;
+}
+
+.thumb {
+    display: inline;
+}
+
+.ingredients {
+    width: 400px;
+    border: 1px solid #820300;
+    margin: 10px auto;
+    padding: 8px 4px;
+    color: #B80000;
+    background-color: #5F8670;
+}
+
+.steps {
+    width: 800px;
+    border: 1px solid #820300;
+    margin: 10px auto;
+    padding: 8px 4px;
+    color: #B80000;
+    background-color: #5F8670;
 }
